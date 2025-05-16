@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thushan Madhusanka Madarasinghe</h1> 
+<h1 align="center">Hi 👋, I'm Sachin Kamalinda</h1> 
 <h3 align="center">An undergraduate Computer Science student passionate about development, technology, and innovation 🤖🧠💻👾</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thushanmadu&label=Profile%20views&color=0e75b6&style=flat" alt="thushanmadu" /> </p>
@@ -10,7 +10,7 @@
 - 👯 Open to collaboration on **Full Stack Projects**  
 - 🤝 Looking for support in further developing my projects  
 - 👨‍💻 Check out my work at [GitHub](https://github.com/ThushanMadu)  
-- 📫 Reach me at **thushanmadu2003@gmail.com**  
+- 📫 Reach me at **sachinkamalinda@gmail.com**  
 - ⚡ Fun fact: **"When I'm not coding, I'm either exploring new tech gadgets or perfecting my coffee-making skills! ☕️👨‍💻"**  
 
 ## 🛠️ Technologies & Tools  
@@ -75,9 +75,5 @@
 </a>
 </p>
 
-## ☕ Support  
-
-If you enjoy my work, you can buy me a coffee:  
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/thushanmadu)
 
   
