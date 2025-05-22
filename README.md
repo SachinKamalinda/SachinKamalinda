@@ -61,7 +61,7 @@
 ## 🤝 Connect with Me  
 
 <p align="left">
-<a href="https://linkedin.com/in/thushan-madhusanka-madarasinghe" target="blank">
+<a href="https://www.linkedin.com/in/sachin-kamalinda-489044237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thushan-madhusanka-madarasinghe" height="30" width="40" />
 </a>
 <a href="https://fb.com/thushan.madhusanka" target="blank">
