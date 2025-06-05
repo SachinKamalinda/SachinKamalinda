@@ -9,7 +9,7 @@
 - 🌱 Exploring **New Tech**  
 - 👯 Open to collaboration on **Full Stack Projects**  
 - 🤝 Looking for support in further developing my projects  
-- 👨‍💻 Check out my work at [GitHub](https://github.com/ThushanMadu)  
+- 👨‍💻 Check out my work at [GitHub](https://github.com/Sachiya-coder)  
 - 📫 Reach me at **sachinkamalinda@gmail.com**  
 - ⚡ Fun fact: **"When I'm not coding, I'm either exploring new tech gadgets or perfecting my coffee-making skills! ☕️👨‍💻"**  
 
@@ -70,7 +70,7 @@
 <a href="https://instagram.com/_s_kamalinda_" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_t_u_t_u" height="30" width="40" />
 </a>
-<a href="https://www.hackerrank.com/thushanmadu2003" target="blank">
+<a href="https://www.hackerrank.com/sachinkamalinda" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thushanmadu2003" height="30" width="40" />
 </a>
 </p>
