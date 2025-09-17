@@ -9,7 +9,7 @@
 - 🌱 Exploring **New Tech**  
 - 👯 Open to collaboration on **Full Stack Projects**  
 - 🤝 Looking for support in further developing my projects  
-- 👨‍💻 Check out my work at [GitHub](https://github.com/Sachiya-coder)  
+- 👨‍💻 Check out my work at [GitHub](https://github.com/SachinKamalinda)  
 - 📫 Reach me at **sachinkamalinda@gmail.com**  
 - ⚡ Fun fact: **"When I'm not coding, I'm either exploring new tech gadgets or perfecting my coffee-making skills! ☕️👨‍💻"**  
 
