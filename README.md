@@ -64,8 +64,15 @@
 <a href="https://www.linkedin.com/in/sachin-kamalinda-489044237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thushan-madhusanka-madarasinghe" height="30" width="40" />
 </a>
-<a href="https://www.facebook.com/share/18uyvDEVNN/?mibextid=wwXIfr" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thushan.madhusanka" height="30" width="40" />
+<a href="https://www.facebook.com/SachinKamalinda" target="_blank">
+  <img 
+    align="center" 
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+    alt="Sachin Kamalinda" 
+    height="30" 
+    width="40" 
+  />
+</a>
 </a>
 <a href="https://instagram.com/_s_kamalinda_" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_t_u_t_u" height="30" width="40" />
