@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Kamalinda</h1> 
 <h3 align="center">An undergraduate Computer Science student passionate about development, technology, and innovation 🤖🧠💻👾</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thushanmadu&label=Profile%20views&color=0e75b6&style=flat" alt="thushanmadu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SachinKamalinda&label=Profile%20views&color=0e75b6&style=flat" alt="SachinKamalinda" /> </p>
 
 ## 🚀 About Me  
 
@@ -51,10 +51,10 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ThushanMadu&theme=dark" />
+    <img src="https://streak-stats.demolab.com/?user=SachinKamalinda&theme=dark" />
   </a>
   <br/>
-  <img src="https://github-readme-stats-theta-eight-76.vercel.app/api/top-langs/?username=ThushanMadu&theme=dark" />
+  <img src="https://github-readme-stats-theta-eight-76.vercel.app/api/top-langs/?username=SachinKamalinda&theme=dark" />
 </div>
 
 
