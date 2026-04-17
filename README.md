@@ -48,7 +48,7 @@
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
 <a href="https://www.linkedin.com/in/sachin-kamalinda-489044237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-kamalinda" height="30" width="40"/></a>
-<a href="https://www.facebook.com/SachinKamalinda" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sachin Kamalinda" height="30" width="40"/></a>
+<a href="https://web.facebook.com/sachin.kamalinda.1/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sachin Kamalinda" height="30" width="40"/></a>
 <a href="https://instagram.com/_s_kamalinda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_kamalinda" height="30" width="40"/></a>
 <a href="https://www.hackerrank.com/sachinkamalinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sachinkamalinda" height="30" width="40"/></a>
 </div>
