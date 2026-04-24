@@ -63,12 +63,11 @@ My focus is full-stack development, and I care about how everything connects, fr
 
 ---
 
-## GitHub Stats
-
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SachinKamalinda&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=SachinKamalinda&theme=tokyonight&hide_border=true" />
   <br/><br/>
-  <img src="https://github-readme-stats-theta-eight-76.vercel.app/api/top-langs/?username=SachinKamalinda&theme=dark&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats-theta-eight-76.vercel.app/api/top-langs/?username=SachinKamalinda&theme=tokyonight&hide_border=true&layout=compact" />
 </div>
 
 ---
