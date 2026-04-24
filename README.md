@@ -1,10 +1,4 @@
 <div align="center">
-
-![Knight Rider](https://readme-typing-svg.demolab.com?font=Orbitron&size=12&duration=500&pause=0&color=FF0000&center=true&vCenter=true&repeat=true&width=435&height=20&lines=⬛⬛⬛⬛⬛🟥⬛⬛⬛⬛⬛⬛,⬛⬛⬛⬛🟥🟥🟥⬛⬛⬛⬛⬛,⬛⬛⬛🟥🟥🟥🟥🟥⬛⬛⬛⬛,⬛⬛🟥🟥🟥🟥🟥🟥🟥⬛⬛⬛,⬛🟥🟥🟥🟥🟥🟥🟥🟥🟥⬛⬛,🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥⬛,⬛🟥🟥🟥🟥🟥🟥🟥🟥🟥⬛⬛,⬛⬛🟥🟥🟥🟥🟥🟥🟥⬛⬛⬛,⬛⬛⬛🟥🟥🟥🟥🟥⬛⬛⬛⬛,⬛⬛⬛⬛🟥🟥🟥⬛⬛⬛⬛⬛,⬛⬛⬛⬛⬛🟥⬛⬛⬛⬛⬛⬛)
-
-</div>
-
-<div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=13&duration=1&pause=99999&color=FF3300&center=true&vCenter=true&width=600&height=30&lines=◀+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+▶)](https://git.io/typing-svg)
 
