@@ -25,25 +25,43 @@ My focus is full-stack development, and I care about how everything connects, fr
 </tr>
 </table>
 
-## Tech Stack
+## 🛠️ Tech Stack
+<div align="center">
 
+### 🎨 Front-End Technologies
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=react,html,css" alt="Frontend Skills" />
 </p>
+
+### ⚙️ Back-End Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Skills" />
+</p>
+
+### 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,py,java,ts" alt="Languages" />
+</p>
+
+### 🖥️ Desktop App Development
+<p>
+<img src="https://skillicons.dev/icons?i=electron" alt="Desktop" />
+</p>
+
+### 🗄️ Database Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
+</p>
+
+### 🔧 Developer Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,figma" alt="Tools" />
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+</p>
+
+</div>
+
+---
 
 ## GitHub Stats
 
