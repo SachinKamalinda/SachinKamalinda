@@ -1,7 +1,5 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=13&duration=1&pause=99999&color=FF3300&center=true&vCenter=true&width=600&height=30&lines=◀+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+●+▶)](https://git.io/typing-svg)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,0&height=3&section=header">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30&height=3">
