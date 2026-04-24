@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/SachinKamalinda/SachinKamalinda/main/banner.jpg" alt="Banner" width="100%" />
 # Sachin Kamalinda
 
 Computer Science undergraduate at the University of Westminster.
