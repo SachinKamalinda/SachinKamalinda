@@ -2,20 +2,33 @@
 
 <h1 align="center"><b>Hi , I'm Sachin Kamalinda </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<br>
-<br>
-<br>
-<img align="right" width=300px alt="Coding" src="https://media1.tenor.com/m/4DEF84bYG2AAAAAd/stray-programming.gif" />
+
+<img src="https://raw.githubusercontent.com/SachinKamalinda/SachinKamalinda/main/banner.jpg" alt="Banner" width="100%" />
+
+<h1 align="center"><b>Hi , I'm Sachin Kamalinda </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<table>
+<tr>
+<td valign="top" width="70%">
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I'm a CS student who genuinely enjoys building things.
 My focus is full-stack development, and I care about how everything connects, from the database layer all the way to the UI.
+
 - Current Focus ...
   - 🏗️ Building full-stack projects with **React** and **Node.js**
   - 🖥️ Exploring **Electron** for cross-platform desktop apps
   - 🧠 Getting deeper into **TypeScript** and **system design**
   - 🤝 Looking for open-source projects and real collaborations
+
+</td>
+<td valign="middle" width="30%">
+<br>
+<img src="https://media1.tenor.com/m/4DEF84bYG2AAAAAd/stray-programming.gif" width="100%" alt="Coding" />
+</td>
+</tr>
+</table>
 
 ## Tech Stack
 
