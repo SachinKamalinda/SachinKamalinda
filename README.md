@@ -1,54 +1,85 @@
-<h1 align="center">Hi 👋, I'm Sachin Kamalinda</h1> 
-<h3 align="center">An undergraduate Computer Science student passionate about development, technology, and innovation 🤖🧠💻👾</h3>
+# Sachin Kamalinda
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SachinKamalinda&label=Profile%20views&color=0e75b6&style=flat" alt="SachinKamalinda" /> </p>
+Computer Science undergraduate at the University of Westminster.
+I build full-stack web apps, explore emerging tech, and write code that solves real problems.
 
-## 🚀 About Me  
+📍 Sri Lanka &nbsp;|&nbsp; 📬 sachinkamalinda@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/sachin-kamalinda-489044237) &nbsp;|&nbsp; [GitHub](https://github.com/SachinKamalinda)
 
-- 🔭 Currently studying at **University of Westminster**  
-- 🌱 Exploring **New Tech**  
-- 👯 Open to collaboration on **Full Stack Projects**  
-- 🤝 Looking for support in further developing my projects  
-- 👨‍💻 Check out my work at [GitHub](https://github.com/SachinKamalinda)  
-- 📫 Reach me at **sachinkamalinda@gmail.com**  
-- ⚡ Fun fact: **"When I'm not coding, I'm either exploring new tech gadgets or perfecting my coffee-making skills! ☕️👨‍💻"**  
+---
 
-## 🛠️ Technologies & Tools  
+## About Me
 
-- 💻 **Languages:** Python, Java, JavaScript  
-- 🎨 **Frontend:** React.js, HTML 5/ CSS 3  
-- 🛠️ **Backend:** Node.js, Express.js  
-- 📱 **Mobile:** React Native  
-- 🗄️ **Databases:** MySQL, MongoDB  
-- 🔧 **Tools:** Git
+I'm a CS student who genuinely enjoys building things, not just completing assignments.
+My focus is full-stack development, and I care about how everything connects, from the
+database layer all the way to the UI.
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-</div>
+---
 
+## Current Focus
 
-## 📊 GitHub Stats  
+- 🏗️ Building full-stack projects with **React** and **Node.js**
+- 🖥️ Exploring **Electron** for cross-platform desktop apps
+- 🧠 Getting deeper into **TypeScript** and **system design**
+- 🤝 Looking for open-source projects and real collaborations
+
+---
+
+## Tech Stack
+
+**Languages**
+`JavaScript` `TypeScript` `Python` `Java`
+
+**Frontend**
+`React.js` `HTML5` `CSS3`
+
+**Backend**
+`Node.js` `Express.js`
+
+**Desktop**
+`Electron`
+
+**Databases**
+`MySQL` `MongoDB`
+
+**Tools**
+`Git` `Figma` `Google Colab`
+
+---
+
+## Learning Journey
+
+| Solid Foundation | Currently Exploring |
+|---|---|
+| React, Node.js, Express | System Design & Architecture |
+| MySQL, MongoDB | TypeScript (advancing) |
+| Java, Python, JavaScript | Docker & CI/CD |
+| REST APIs | Machine Learning basics |
+| Electron, Figma | Cloud Deployment (AWS / Vercel) |
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=SachinKamalinda&theme=dark" />
-  </a>
-  <br/>
-  <img src="https://github-readme-stats-theta-eight-76.vercel.app/api/top-langs/?username=SachinKamalinda&theme=dark" />
+  <img src="https://streak-stats.demolab.com/?user=SachinKamalinda&theme=dark&hide_border=true" />
+  <br/><br/>
+  <img src="https://github-readme-stats-theta-eight-76.vercel.app/api/top-langs/?username=SachinKamalinda&theme=dark&hide_border=true&layout=compact" />
 </div>
 
+---
 
-## 🤝 Connect with Me  
+## Let's Connect
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-<a href="https://www.linkedin.com/in/sachin-kamalinda-489044237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-kamalinda" height="30" width="40"/></a>
-<a href="https://web.facebook.com/sachin.kamalinda.1/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sachin Kamalinda" height="30" width="40"/></a>
-<a href="https://instagram.com/_s_kamalinda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_kamalinda" height="30" width="40"/></a>
-<a href="https://www.hackerrank.com/sachinkamalinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sachinkamalinda" height="30" width="40"/></a>
-</div>
+I'm open to collaborations, project feedback, or a good tech conversation.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-kamalinda-489044237)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sachinkamalinda)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/_s_kamalinda_)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/sachin.kamalinda.1/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sachinkamalinda@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SachinKamalinda&color=0e75b6&style=flat&label=Profile+Views" />
+</p>
