@@ -1,14 +1,5 @@
 <img src="https://raw.githubusercontent.com/SachinKamalinda/SachinKamalinda/main/banner.jpg" alt="Banner" width="100%" />
 
-# Sachin Kamalinda
-
-Computer Science undergraduate at the University of Westminster.
-I build full-stack web apps, explore emerging tech, and write code that solves real problems.
-
-📍 Sri Lanka &nbsp;|&nbsp; 📬 sachinkamalinda@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/sachin-kamalinda-489044237)
-
----
-
 ## About Me
 
 I'm a CS student who genuinely enjoys building things.
