@@ -1,9 +1,3 @@
-<div align="center">
-![](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
-</div>
-
----
-
 # Sachin Kamalinda
 
 Computer Science undergraduate at the University of Westminster.
