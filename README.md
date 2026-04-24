@@ -1,12 +1,5 @@
 <div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,0&height=3&section=header">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30&height=3">
-</picture>
-
 ![](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
-
 </div>
 
 ---
