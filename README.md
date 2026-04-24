@@ -1,20 +1,18 @@
 <img src="https://raw.githubusercontent.com/SachinKamalinda/SachinKamalinda/main/banner.jpg" alt="Banner" width="100%" />
 
-## About Me
+<h1 align="center"><b>Hi , I'm Sachin Kamalinda </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I'm a CS student who genuinely enjoys building things.
 My focus is full-stack development, and I care about how everything connects, from the database layer all the way to the UI.
-
----
-
-## Current Focus
-
-- 🏗️ Building full-stack projects with **React** and **Node.js**
-- 🖥️ Exploring **Electron** for cross-platform desktop apps
-- 🧠 Getting deeper into **TypeScript** and **system design**
-- 🤝 Looking for open-source projects and real collaborations
-
----
+- Current Focus ...
+  - 🏗️ Building full-stack projects with **React** and **Node.js**
+  - 🖥️ Exploring **Electron** for cross-platform desktop apps
+  - 🧠 Getting deeper into **TypeScript** and **system design**
+  - 🤝 Looking for open-source projects and real collaborations
 
 ## Tech Stack
 
