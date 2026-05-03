@@ -70,7 +70,7 @@ My focus is full-stack development, and I care about how everything connects, fr
 
 ---
 
-## <a href="https://emoji.gg/emoji/502352-link"><img src="https://cdn3.emoji.gg/emojis/502352-link.png" width="30px" height="30px" alt="Link"></a> Let's Connect
+## <a href="https://emoji.gg/emoji/502352-link"><img src="https://cdn3.emoji.gg/emojis/502352-link.png" width="35px" height="35px" alt="Link"></a> Let's Connect
 <p align="center">
 I'm open to collaborations, project feedback, or a good tech conversation.
 </p>
