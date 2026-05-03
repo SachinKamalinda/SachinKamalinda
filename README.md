@@ -24,38 +24,15 @@ My focus is full-stack development, and I care about how everything connects, fr
 </table>
 
 ## <img src="laptop.png" width="30px"> Tech Stack
+
 <div align="center">
 
-### 🎨 Front-End Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css" alt="Frontend Skills" />
-</p>
+**🎨 Front-End** &nbsp;|&nbsp; **⚙️ Back-End** &nbsp;|&nbsp; **💻 Languages** &nbsp;|&nbsp; **🖥️ Desktop** &nbsp;|&nbsp; **🗄️ Database** &nbsp;|&nbsp; **🔧 Tools**
 
-### ⚙️ Back-End Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=react,html,css,nodejs,express,js,py,java,ts,electron,mysql,mongodb,git,figma" alt="Tech Stack" />
 </p>
-
-### 💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=js,py,java,ts" alt="Languages" />
-</p>
-
-### 🖥️ Desktop App Development
-<p>
-<img src="https://skillicons.dev/icons?i=electron" alt="Desktop" />
-</p>
-
-### 🗄️ Database Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
-</p>
-
-### 🔧 Developer Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,figma" alt="Tools" />
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-</p>
 
 </div>
 
