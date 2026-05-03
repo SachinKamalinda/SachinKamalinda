@@ -25,16 +25,70 @@ My focus is full-stack development, and I care about how everything connects, fr
 
 ## <img src="laptop.png" width="30px"> Tech Stack
 
-<div align="center">
+<table width="100%">
+<tr>
+<td align="center" width="50%">
 
-**🎨 Front-End** &nbsp;|&nbsp; **⚙️ Back-End** &nbsp;|&nbsp; **💻 Languages** &nbsp;|&nbsp; **🖥️ Desktop** &nbsp;|&nbsp; **🗄️ Database** &nbsp;|&nbsp; **🔧 Tools**
+### 🎨 Front-End
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,nodejs,express,js,py,java,ts,electron,mysql,mongodb,git,figma" alt="Tech Stack" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+
+`React` | `HTML` | `CSS`
+
+</td>
+<td align="center" width="50%">
+
+### ⚙️ Back-End
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+`Node.js` | `Express`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=js,py,java,ts" />
+
+`JavaScript` | `Python` | `Java` | `TypeScript`
+
+</td>
+<td align="center" width="50%">
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+`MySQL` | `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🖥️ Desktop
+
+<img src="https://skillicons.dev/icons?i=electron" />
+
+`Electron`
+
+</td>
+<td align="center" width="50%">
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,figma" />
+<br/>
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 
-</div>
+`Git` | `Figma` | `Google Colab`
+
+</td>
+</tr>
+</table>
 
 ---
 
