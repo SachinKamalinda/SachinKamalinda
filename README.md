@@ -61,7 +61,7 @@ My focus is full-stack development, and I care about how everything connects, fr
 
 ---
 
-## 📊 GitHub Stats
+## <a href="https://emoji.gg/emoji/129438-stats"><img src="https://cdn3.emoji.gg/emojis/129438-stats.png" width="30px" height="30px" alt="Stats"></a> GitHub Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=SachinKamalinda&theme=tokyonight&hide_border=true" />
   <br/><br/>
