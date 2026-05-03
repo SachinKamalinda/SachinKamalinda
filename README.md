@@ -91,7 +91,7 @@ My focus is full-stack development, and I care about how everything connects, fr
 </tr>
 </table>
 
-<div/>
+</div>
   
 ---
 
