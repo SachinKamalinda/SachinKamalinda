@@ -23,7 +23,7 @@ My focus is full-stack development, and I care about how everything connects, fr
 </tr>
 </table>
 
-## 🛠️ Tech Stack
+## <img src="laptop.png" width="30px"> Tech Stack
 <div align="center">
 
 ### 🎨 Front-End Technologies
