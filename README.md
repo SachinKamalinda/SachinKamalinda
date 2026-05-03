@@ -30,22 +30,27 @@ My focus is full-stack development, and I care about how everything connects, fr
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css" alt="Frontend Skills" />
 </p>
+
 ### ⚙️ Back-End Technologies
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Skills" />
 </p>
+
 ### 💻 Programming Languages
 <p>
 <img src="https://skillicons.dev/icons?i=js,py,java,ts" alt="Languages" />
 </p>
+
 ### 🖥️ Desktop App Development
 <p>
 <img src="https://skillicons.dev/icons?i=electron" alt="Desktop" />
 </p>
+
 ### 🗄️ Database Technologies
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
 </p>
+
 ### 🔧 Developer Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,figma" alt="Tools" />
