@@ -92,6 +92,7 @@ My focus is full-stack development, and I care about how everything connects, fr
 </table>
 
 <div/>
+  
 ---
 
 ## <a href="https://emoji.gg/emoji/129438-stats"><img src="https://cdn3.emoji.gg/emojis/129438-stats.png" width="30px" height="30px" alt="Stats"></a> GitHub Stats
